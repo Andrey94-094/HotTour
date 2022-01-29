@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HotTour/static/css/main.1deb1ec5.chunk.css",
-    "main.js": "/HotTour/static/js/main.c512c19a.chunk.js",
-    "main.js.map": "/HotTour/static/js/main.c512c19a.chunk.js.map",
+    "main.css": "/HotTour/static/css/main.e2a2e7c3.chunk.css",
+    "main.js": "/HotTour/static/js/main.cd01db8c.chunk.js",
+    "main.js.map": "/HotTour/static/js/main.cd01db8c.chunk.js.map",
     "runtime-main.js": "/HotTour/static/js/runtime-main.4ced1b0b.js",
     "runtime-main.js.map": "/HotTour/static/js/runtime-main.4ced1b0b.js.map",
     "static/js/2.d4702bee.chunk.js": "/HotTour/static/js/2.d4702bee.chunk.js",
     "static/js/2.d4702bee.chunk.js.map": "/HotTour/static/js/2.d4702bee.chunk.js.map",
     "index.html": "/HotTour/index.html",
-    "static/css/main.1deb1ec5.chunk.css.map": "/HotTour/static/css/main.1deb1ec5.chunk.css.map",
+    "static/css/main.e2a2e7c3.chunk.css.map": "/HotTour/static/css/main.e2a2e7c3.chunk.css.map",
     "static/js/2.d4702bee.chunk.js.LICENSE.txt": "/HotTour/static/js/2.d4702bee.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "/HotTour/static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/aerostat.5c0c0fbe.png": "/HotTour/static/media/aerostat.5c0c0fbe.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ced1b0b.js",
     "static/js/2.d4702bee.chunk.js",
-    "static/css/main.1deb1ec5.chunk.css",
-    "static/js/main.c512c19a.chunk.js"
+    "static/css/main.e2a2e7c3.chunk.css",
+    "static/js/main.cd01db8c.chunk.js"
   ]
 }
